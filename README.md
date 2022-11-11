@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/f2uday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="f2uday" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uday sankar mukherjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday sankar mukherjee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/usm003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday sankar mukherjee" height="30" width="40" /></a>
 <a href="https://www.facebook.com/udaysankar.mukherjee.319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uday sankar mukherjee" height="30" width="40" /></a>
 <a href="https://instagram.com/shadow.bot.1108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadow.bot.1108" height="30" width="40" /></a>
 <a href="https://discord.gg/SHADOW0069#8802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SHADOW0069#8802" height="30" width="40" /></a>
