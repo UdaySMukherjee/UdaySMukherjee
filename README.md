@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.datadriveninvestor.com/uploads/2019/12/AIoT-The-Growing-Impact-for-New-Age-Businesses.jpg)](https://udaysmukherjee.io)
+[![MasterHead](https://q46g328tbx259g0tu3qkm19a-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/mc-blog-aiot-featured-image-min.png)](https://udaysmukherjee.io)
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
 <h3 align="center">Robotics & IOT Enthusiast</h3>
 
