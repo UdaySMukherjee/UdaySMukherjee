@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+[![MasterHead](https://www.analyticssteps.com/backend/media/thumbnail/2644652/4534097_1638361124_Artificial%20Intelligence%20of%20ThingsArtboard%201.jpg)](https://udaysmukherjee.io)
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
 <h3 align="center">Robotics & IOT Enthusiast</h3>
-<img align="right" alt="CoBots" width="400" src="https://img.freepik.com/premium-vector/cute-robot-waving-hand-cartoon-character-science-technology-isolated_138676-3155.jpg?w=2">
+<img align="right" alt="CoBots" width="200" src="https://img.freepik.com/premium-vector/cute-robot-waving-hand-cartoon-character-science-technology-isolated_138676-3155.jpg?w=2000">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaysmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="udaysmukherjee" /> </p>
