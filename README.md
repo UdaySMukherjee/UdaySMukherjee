@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.analyticssteps.com/backend/media/thumbnail/2644652/4534097_1638361124_Artificial%20Intelligence%20of%20ThingsArtboard%201.jpg)](https://udaysmukherjee.io)
+[![MasterHead](https://media.datadriveninvestor.com/uploads/2019/12/AIoT-The-Growing-Impact-for-New-Age-Businesses.jpg)](https://udaysmukherjee.io)
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
 <h3 align="center">Robotics & IOT Enthusiast</h3>
 
