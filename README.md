@@ -1,5 +1,5 @@
 
-[![MasterHead](https://q46g328tbx259g0tu3qkm19a-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/mc-blog-aiot-featured-image-min.png)](https://udaysmukherjee.io)
+[![MasterHead](https://www.iosb.fraunhofer.de/en/business-units/automation-digitalization/aiot-ai-machine-learning-digital-twin-interview/jcr:content/stage/stageParsys/stage_slide/image.img.jpg/1656428748242/AIoT-wip-lq-00734-col.jpg)](https://udaysmukherjee.io)
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
 <h3 align="center">Robotics & IOT Enthusiast</h3>
 
