@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udaysmukherjee" alt="udaysmukherjee" /></a> </p>
 
-- 🔭 I’m currently working With **Institution Innovation Council- IEM**
+- 🔭 I’m currently working With **IEMA Research & Development Pvt. Ltd.**
 
-- 🌱 I’m currently learning **ROS, Image processing, Cloud computing**
+- 🌱 I’m currently learning **ROS, Image processing, Cloud computing, Machine Learning and Embedded C**
 
 - 🏫 I’m studying at **Institute of Engineering and Management**
 
 - 🤝 My current Position **Robotics and Drone Intern at IEMLabs**
 
-- 💬 Ask me about **Arduino, NodeRed, C, Python, MySQL**
+- 💬 Ask me about **Arduino, C++ ,C# , C, Python, MySQL**
 
 - 📫 How to reach me **udaysankar2003@gmail.com**
 
