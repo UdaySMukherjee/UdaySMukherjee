@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Arduino, C++ ,C# , C, Python, MySQL**
 
-- 📫 How to reach me **udaysankar2003@gmail.com**
+- 📫 How to reach me **mukherjee.udaysankar2003@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
