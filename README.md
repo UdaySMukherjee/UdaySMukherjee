@@ -16,7 +16,7 @@
 
 - 🤝 My current Position **Robotics and Drone Intern at IEMLabs**
 
-- 💬 Ask me about **Arduino, C++ ,C# , C, Python, MySQL**
+- 💬 Ask me about **Arduino, C++ ,C# , C, Python**
 
 - 📫 How to reach me **mukherjee.udaysankar2003@gmail.com**
 
