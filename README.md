@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udaysmukherjee" alt="udaysmukherjee" /></a> </p>
 
-- 🔭 I’m currently working With **IEMA Research & Development Pvt. Ltd.**
+- 🔭 I’m a GATE Aspirant**
 
 - 🌱 I’m currently learning **ROS, Image processing, Cloud computing, Machine Learning and Embedded C**
 
