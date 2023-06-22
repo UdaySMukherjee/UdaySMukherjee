@@ -14,7 +14,7 @@
 
 - 🏫 I’m studying at **Institute of Engineering and Management**
 
-- 🤝 My current Position **Robotics and Drone Intern at IEMLabs**
+- 🤝 My current Recognition is **Drone Developer**
 
 - 💬 Ask me about **Arduino, C++ ,C# , C, Python**
 
