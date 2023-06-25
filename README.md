@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.iosb.fraunhofer.de/en/business-units/automation-digitalization/aiot-ai-machine-learning-digital-twin-interview/jcr:content/stage/stageParsys/stage_slide/image.img.jpg/1656428748242/AIoT-wip-lq-00734-col.jpg)](https://udaysmukherjee.io)
+[![MasterHead](https://i.imgur.com/HxvdPRn.png)](https://udaysmukherjee.io)
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
 <h3 align="center">Drone Developer, Robotics & IOT Enthusiast</h3>
 
