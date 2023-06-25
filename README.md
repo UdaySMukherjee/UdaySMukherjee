@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.imgur.com/HxvdPRn.png)](https://udaysmukherjee.io)
+[![MasterHead](https://i.imgur.com/SEGrR6M.jpg)](https://udaysmukherjee.io)
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
 <h3 align="center">Drone Developer, Robotics & IOT Enthusiast</h3>
 
