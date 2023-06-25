@@ -39,5 +39,5 @@
 
 
 ###
- ![Snake animation](https://github.com/UdaySMukherjee/UdaySMukherjee/blob/1be3f55fcd03826dc394b82fb4e0d850ca6643d9/.github/workflows/main.yml)
+ ![Snake animation](https://github.com/UdaySMukherjee/UdaySMukherjee/blob/output/github-contribution-grid-snake.svg)
 ###
