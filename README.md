@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaysmukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="udaysmukherjee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udaysmukherjee" alt="udaysmukherjee" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=UdaySMukherjee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 🔭 I’m a **GATE Aspirant.**
 
@@ -39,3 +40,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udaysmukherjee&show_icons=true&locale=en" alt="udaysmukherjee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaysmukherjee&" alt="udaysmukherjee" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UdaySMukherjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=UdaySMukherjee&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySMukherjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
