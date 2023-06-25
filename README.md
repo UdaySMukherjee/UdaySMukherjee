@@ -9,6 +9,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UdaySMukherjee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## About
 - 🔭 I’m a **GATE Aspirant.**
 
 - 🌱 I’m currently learning **ROS, Image processing, Cloud computing, Machine Learning and Embedded C**
