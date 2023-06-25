@@ -40,3 +40,23 @@
 <br>
 ![](https://github.com/UdaySMukherjee/UdaySMukherjee/blob/output/github-contribution-grid-snake.svg)
 ![](https://github.com/UdaySMukherjee/UdaySMukherjee/blob/9152f4679a7009aed13e8a693b910760e9f7f5a9/.github/workflows/main.yml)
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
