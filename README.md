@@ -37,10 +37,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySMukherjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UdaySMukherjee&theme=radical&hide_border=false)
 
-<br>
-![](https://github.com/UdaySMukherjee/UdaySMukherjee/blob/output/github-contribution-grid-snake.svg)
-![](https://github.com/UdaySMukherjee/UdaySMukherjee/blob/9152f4679a7009aed13e8a693b910760e9f7f5a9/.github/workflows/main.yml)
-
 
 <picture>
   <source
