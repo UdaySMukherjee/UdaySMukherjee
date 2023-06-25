@@ -38,4 +38,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UdaySMukherjee&theme=radical&hide_border=false)
 
 <br>
-![Snake animation](https://github.com/UdaySMukherjee/UdaySMukherjee/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/UdaySMukherjee/UdaySMukherjee/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/UdaySMukherjee/UdaySMukherjee/blob/9152f4679a7009aed13e8a693b910760e9f7f5a9/.github/workflows/main.yml)
