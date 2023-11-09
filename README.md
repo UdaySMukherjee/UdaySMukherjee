@@ -1,7 +1,7 @@
 
 [![MasterHead](https://i.imgur.com/SEGrR6M.jpg)](https://udaysmukherjee.io)
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
-<h3 align="center">Drone Developer, Robotics & IOT Enthusiast</h3>
+<h3 align="center">RPA Developer, Robotics & IOT Enthusiast</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=UdaySMukherjee&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -17,7 +17,7 @@
 
 - 🏫 I’m studying at **Institute of Engineering and Management**
 
-- 🤝 My current Recognition is **Drone Developer**
+- 🤝 My current Recognition is **RPA Developer**
 
 - 💬 Ask me about **Arduino, C++ ,C# , C, Python**
 
