@@ -1,7 +1,7 @@
 
 [![MasterHead](https://i.imgur.com/SEGrR6M.jpg)](https://udaysmukherjee.io)
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
-<h3 align="center">RPA Developer, Robotics & IOT Enthusiast</h3>
+<h3 align="center">RPA Developer, Robotics & IOT Enthusiast from India</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=UdaySMukherjee&icon=0&color=0)](https://visitcount.itsvg.in)
