@@ -17,7 +17,7 @@
 
 - 🏫 I’m studying at **Institute of Engineering and Management**
 
-- 🤝 My current Recognition is **RPA Developer**
+- 🤝 My current Recognition is **RPA and IOT Developer**
 
 - 💬 Ask me about **Arduino, C++ ,C# , C, Python**
 
