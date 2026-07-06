@@ -1,7 +1,7 @@
 
 [![MasterHead](https://i.imgur.com/SEGrR6M.jpg)](https://udaysmukherjee.io)
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
-<h3 align="center">RPA Developer, Robotics & IOT Enthusiast from India</h3>
+<h3 align="center">Data-science Engineer at Tata Consultancy Services</h3>
 
 
 [![](https://visitcount.itsvg.in/api?id=UdaySMukherjee&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -11,15 +11,15 @@
 
 
 ## 💁 About
-- 🔭 I’m a **GATE Aspirant.**
+- 🔭 I’m an **CS Engineer.**
 
-- 🌱 I’m currently learning **ROS, Image processing, Cloud computing, Machine Learning and Embedded C**
+- 🌱 I’m currently learning **Agentic AI, Gen AI, AIML-architectures and Deep Neural Networks**
 
-- 🏫 I’m studying at **Institute of Engineering and Management**
+- 🏫 I’ve graduated from **Institute of Engineering and Management** on 2025
 
-- 🤝 My current Recognition is **RPA and IOT Developer**
+- 🤝 My current Recognition is **AIML Developer**
 
-- 💬 Ask me about **Arduino, C++ ,C# , C, Python**
+- 💬 Ask me about **Python programming, DSA, AI tech**
 
 - 📫 How to reach me **mukherjee.udaysankar2003@gmail.com**
 
