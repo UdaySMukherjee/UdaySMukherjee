@@ -1,62 +1,164 @@
+<div align="center">
 
-[![MasterHead](https://i.imgur.com/SEGrR6M.jpg)](https://udaysmukherjee.io)
-<h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
-<h3 align="center">Data-science Engineer at Tata Consultancy Services</h3>
+# 👋 Hi, I'm Uday Sankar Mukherjee
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
+### Data Science Engineer @ Tata Consultancy Services
 
-![Profile Views](https://komarev.com/ghpvc/?username=UdaySMukherjee&label=Profile%20Views&color=blue&style=flat)
+### AI • Machine Learning • Generative AI • Computer Vision • Robotics
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UdaySMukherjee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Uday%20Sankar%20Mukherjee&fontSize=45&fontAlignY=38&desc=Data%20Science%20Engineer%20|%20AI%20Researcher%20|%20GenAI%20Developer&descAlignY=58&animation=fadeIn"/>
 
-## 💁 About
-- 🔭 I’m an **CS Engineer.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=850&lines=Data+Science+Engineer;Generative+AI+Developer;Agentic+AI+Enthusiast;Deep+Learning+Researcher;Computer+Vision+Engineer;Always+Learning+Something+New+🚀"/>
 
-- 🌱 I’m currently learning **Agentic AI, Gen AI, AIML-architectures and Deep Neural Networks**
+![](https://komarev.com/ghpvc/?username=UdaySMukherjee&label=Profile+Views&color=blueviolet&style=flat-square)
+![](https://img.shields.io/github/followers/UdaySMukherjee?style=flat-square&logo=github)
+![](https://img.shields.io/github/stars/UdaySMukherjee?affiliations=OWNER&style=flat-square&logo=github)
 
-- 🏫 I’ve graduated from **Institute of Engineering and Management** on 2025
+</div>
 
-- 🤝 My current Recognition is **AIML Developer**
+---
 
-- 💬 Ask me about **Python programming, DSA, AI tech**
+# 💫 About Me
 
-- 📫 How to reach me **mukherjee.udaysankar2003@gmail.com**
+🎓 B.Tech Graduate in Computer Science from **Institute of Engineering and Management (2025)**
 
+💼 **Data Science Engineer @ Tata Consultancy Services**
 
-## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shadow.senpai.1108/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Uday-Sankar-Mukherjee-2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/F2Uday) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usm003/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/udaysankar.mukherjee.319/)
+🤖 Passionate about building intelligent AI systems using LLMs, Deep Learning and Reinforcement Learning.
 
+🔬 Interested in:
 
-## 💻 Languages and Tools:
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+- 🧠 Generative AI
+- 🤖 Agentic AI
+- 📈 Machine Learning
+- 🧬 Deep Learning
+- 👁 Computer Vision
+- 🛰 Robotics
+- 🎯 Reinforcement Learning
+- 📚 AI Research
 
+---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UdaySMukherjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySMukherjee&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=UdaySMukherjee&theme=radical&hide_border=false)
+# 🚀 Currently Working On
 
+- 🤖 Agentic AI Systems
+- 📹 AI Video Generation Pipelines
+- 🧠 Large Language Models
+- 📖 Retrieval-Augmented Generation (RAG)
+- 🔥 Deep Neural Networks
+- ⚡ Production AI Applications
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,javascript,html,css,tensorflow,pytorch,opencv,sklearn,firebase,gcp,mysql,sqlite,git,github,docker,linux,raspberrypi,arduino,blender,photoshop,latex,vscode&perline=9"/>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🧠 NeuroBot | Brain Computer Interface for Robotic Manipulation |
+| ❤️ Heart Disease Detection | Deep Learning based ECG Classification |
+| 🚗 Dynamic Path Planning | DQN, SARSA & Q-Learning Navigation |
+| 🎥 AI Video Generator | LLM Powered Automated Video Creation |
+| 🌍 Air Quality Monitoring | IoT Balloon based Atmospheric Analysis |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=UdaySMukherjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaySMukherjee&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=UdaySMukherjee&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UdaySMukherjee&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+</div>
 
+---
+
+# 🏆 Achievements
+
+- 💼 Data Science Engineer @ Tata Consultancy Services
+- 🤖 AI/ML Developer
+- 🧠 Generative AI Enthusiast
+- 📄 AI Research Projects
+- 🚀 Open Source Contributor
+- 🏅 Strong Foundation in DSA & System Design
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mukherjee.udaysankar2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://www.linkedin.com/in/usm003"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://twitter.com/F2Uday"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href="https://www.instagram.com/shadow.senpai.1108/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://github.com/UdaySMukherjee"><img src="https://skillicons.dev/icons?i=github"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UdaySMukherjee&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+*"Building intelligent systems that bridge AI research and real-world impact."* 🚀
+
+</div>
