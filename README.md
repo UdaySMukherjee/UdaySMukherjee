@@ -3,8 +3,11 @@
 <h1 align="center">Hi 👋, I'm Uday Sankar Mukherjee</h1>
 <h3 align="center">Data-science Engineer at Tata Consultancy Services</h3>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=UdaySMukherjee&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=UdaySMukherjee&label=Profile%20Views&color=blue&style=flat)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UdaySMukherjee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -56,4 +59,4 @@
   />
 </picture>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
